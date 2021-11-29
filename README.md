@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm kimtaeyeon</h1>
 <h3 align="center">A student about Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taenyeon&label=Profile%20views&color=0e75b6&style=flat" alt="taenyeon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taenyeon" alt="taenyeon" /></a> </p>
-
-- 🔭 I’m currently working on [SpringStudy](X)
+- 🔭 I’m currently working on [SpringStudy](https://github.com/taenyeon/SpringStudy)
 
 - 🌱 I’m currently learning **Servlet,Jsp**
 
@@ -13,7 +9,7 @@
 
 - 🤝 I’m looking for help with [X](X)
 
-- 👨‍💻 What is my country [Korea](Korea)
+- 👨‍💻 Where is my portfolio [X](X)
 
 - 📝 I regularly write articles on [https://jikbakkuri-ffolder.tistory.com](https://jikbakkuri-ffolder.tistory.com)
 
