@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SpringStudy](https://github.com/taenyeon/SpringStudy)
 
-- 🌱 I’m currently learning **Servlet,Jsp**
+- 🌱 I’m currently learning **Servlet,Jsp,Spring**
 
 - 👯 I’m looking to collaborate on [X](X)
 
