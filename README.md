@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm kimtaeyeon</h1>
 <h3 align="center">A Student about Backend developer</h3>
 
-- 🔭 I’m currently working on [SpringStudy](https://github.com/taenyeon/SpringStudy)
+- 🔭 I’m currently working on [SpringBlogService](https://github.com/taenyeon/blog-service)
 
 - 🌱 I’m currently learning **Servlet,Jsp,Spring**
 
-- 👯 I’m looking to collaborate on [X](X)
+- 👯 I’m looking to collaborate on [O](https://github.com/Hojin-K/shoppingmall)
 
 - 🤝 I’m looking for help with [X](X)
 
 - 👨‍💻 Where is my portfolio [X](X)
-
-- 📝 I regularly write articles on [https://jikbakkuri-ffolder.tistory.com](https://jikbakkuri-ffolder.tistory.com)
 
 - 📫 How to reach me **tae8753@gmail.com**
 
