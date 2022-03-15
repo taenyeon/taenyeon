@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Servlet,Jsp,Spring**
 
-- 👯 I’m looking to collaborate on [O](https://github.com/Hojin-K/shoppingmall)
+- 👯 I’m looking to collaborate on [OverseasShoppingmallService](https://github.com/Hojin-K/shoppingmall)
 
 - 🤝 I’m looking for help with [X](X)
 
