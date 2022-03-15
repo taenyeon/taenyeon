@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SpringBlogService](https://github.com/taenyeon/blog-service)
 
-- 🌱 I’m currently learning **Servlet,Jsp,Spring**
+- 🌱 I’m currently learning **Http,Spring,Spring Security**
 
 - 👯 I’m looking to collaborate on [OverseasShoppingmallService](https://github.com/Hojin-K/shoppingmall)
 
