@@ -71,6 +71,8 @@
 <p>
 <img src="https://img.shields.io/badge/confluence-darkgrey?style=for-the-badge&logo=confluence&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/jira-darkgrey?style=for-the-badge&logo=jira&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/notion-darkgrey?style=for-the-badge&logo=notion&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/figma-darkgrey?style=for-the-badge&logo=figma&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/bitbucket-darkgrey?style=for-the-badge&logo=bitbucket&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/github-darkgrey?style=for-the-badge&logo=github&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/gitlab-darkgrey?style=for-the-badge&logo=gitlab&logoColor=#0769AD" alt="">
