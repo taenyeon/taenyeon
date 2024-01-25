@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" alt="" />
 <h1 align="center" style="margin-top: 0; margin-bottom: 0">Hi 👋, I'm taeyeon KIM</h1>
 <h2 align="center">A Backend Developer</h2>
 
@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="color: ivory">
-<a href="https://fb.com/김태연" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="김태연" height="30" width="40" /></a>
 <a href="https://instagram.com/tae_nyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tae_nyeon" height="30" width="40" /></a>
 </p>
 
@@ -82,7 +81,7 @@
 <img src="https://img.shields.io/badge/rabbitmq-darkgrey?style=for-the-badge&logo=rabbitmq&logoColor=#0769AD" alt="">
 </p>
 
-<h2 align="left">My Status:</h2>
+<h2 align="center">Status</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taenyeon&show_icons=true&locale=en&layout=compact" alt="taenyeon" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=taenyeon&show_icons=true&locale=en" alt="taenyeon" /></p>
