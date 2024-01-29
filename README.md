@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [X](X)
 
-- 👨‍💻 Where is my portfolio [Notion](https://taeyeon-portfolio.notion.site/fc177ee78b0242afb65ffce4be5de0af)
+- 👨‍💻 Where is my portfolio [Notion](https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4)
 
 - 📫 How to reach me **tae8753@gmail.com**
 
