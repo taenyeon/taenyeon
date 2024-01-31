@@ -31,33 +31,31 @@ class Me : Person {
 </p>
 
 <h2 align="center">Stack</h2>
-
-<div style="text-align: center">
-<h3>💻 BackEnd</h3>
-<p>
+<h3 align="center">💻 BackEnd</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/kotlin-darkgrey?style=for-the-badge&logo=kotlin&logoColor=#F05032" alt="">
 <img src="https://img.shields.io/badge/java-darkgrey?style=for-the-badge&logo=java&logoColor=#F05032" alt="">
 </p>
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/spring-darkgrey?style=for-the-badge&logo=spring&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/springBoot-darkgrey?style=for-the-badge&logo=springboot&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/mybatis-darkgrey?style=for-the-badge&logo=mybatis&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/jpa-darkgrey?style=for-the-badge&logo=jpa&logoColor=#6DB33F" alt="">
 </p>
-<h3>💻 FrontEnd</h3>
-<p>
+<h3 align="center">💻 FrontEnd</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/javaScript-darkgrey?style=for-the-badge&logo=javascript&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/typeScript-darkgrey?style=for-the-badge&logo=typescript&logoColor=#6DB33F" alt="">
 </p>
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/vue.js-darkgrey?style=for-the-badge&logo=vuedotjs&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/html-darkgrey?style=for-the-badge&logo=html5&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/css-darkgrey?style=for-the-badge&logo=css3&logoColor=#F43059" alt="">
 <img src="https://img.shields.io/badge/jquery-darkgrey?style=for-the-badge&logo=jquery&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 DevOps</h3>
-<p>
+<h3 align="center">💻 DevOps</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/git-darkgrey?style=for-the-badge&logo=git&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/linux-darkgrey?style=for-the-badge&logo=linux&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/jenkins-darkgrey?style=for-the-badge&logo=jenkins&logoColor=#0769AD" alt="">
@@ -68,8 +66,8 @@ class Me : Person {
 <img src="https://img.shields.io/badge/argocd-darkgrey?style=for-the-badge&logo=argo&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 Databases</h3>
-<p>
+<h3 align="center">💻 Databases</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/mysql-darkgrey?style=for-the-badge&logo=mysql&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/oracle-darkgrey?style=for-the-badge&logo=oracle&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/mongodb-darkgrey?style=for-the-badge&logo=mongodb&logoColor=#0769AD" alt="">
@@ -77,8 +75,8 @@ class Me : Person {
 <img src="https://img.shields.io/badge/h2-darkgrey?style=for-the-badge&logo=h2&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 Monitoring</h3>
-<p>
+<h3 align="center">💻 Monitoring</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/elasticsearch-darkgrey?style=for-the-badge&logo=elasticsearch&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/kibana-darkgrey?style=for-the-badge&logo=kibana&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/grafana-darkgrey?style=for-the-badge&logo=grafana&logoColor=#0769AD" alt="">
@@ -86,19 +84,19 @@ class Me : Person {
 <img src="https://img.shields.io/badge/scouter-darkgrey?style=for-the-badge&logo=scouter&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 Message Stream</h3>
-<p>
+<h3 align="center">💻 Message Stream</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/kafka-darkgrey?style=for-the-badge&logo=apachekafka&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/rabbitmq-darkgrey?style=for-the-badge&logo=rabbitmq&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 Search Engine</h3>
-<p>
+<h3 align="center">💻 Search Engine</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/solr-darkgrey?style=for-the-badge&logo=apachesolr&logoColor=#0769AD" alt="">
 </p>
 
-<h3>💻 Collaboration Tools</h3>
-<p>
+<h3 align="center">💻 Collaboration Tools</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/confluence-darkgrey?style=for-the-badge&logo=confluence&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/jira-darkgrey?style=for-the-badge&logo=jira&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/notion-darkgrey?style=for-the-badge&logo=notion&logoColor=#0769AD" alt="">
@@ -110,9 +108,8 @@ class Me : Person {
 
 <h2 align="center">Status</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taenyeon&show_icons=true&locale=en&layout=compact" alt="taenyeon" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taenyeon&show_icons=true&locale=en&layout=compact" alt="taenyeon" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=taenyeon&show_icons=true&locale=en" alt="taenyeon" /></p>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=taenyeon&show_icons=true&locale=en" alt="taenyeon" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" alt=""/>
