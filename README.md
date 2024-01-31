@@ -24,13 +24,16 @@ class Me : Person {
     private val interest : Array<String> = ["BackEnd", "MSA", "K8S" ... ]
 }
 ~~~
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="color: ivory">
 <a href="https://instagram.com/tae_nyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tae_nyeon" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Stack</h2>
-<h3 align="left">💻 BackEnd</h3>
+
+<div style="text-align: center">
+<h3>💻 BackEnd</h3>
 <p>
 <img src="https://img.shields.io/badge/kotlin-darkgrey?style=for-the-badge&logo=kotlin&logoColor=#F05032" alt="">
 <img src="https://img.shields.io/badge/java-darkgrey?style=for-the-badge&logo=java&logoColor=#F05032" alt="">
@@ -41,7 +44,7 @@ class Me : Person {
 <img src="https://img.shields.io/badge/mybatis-darkgrey?style=for-the-badge&logo=mybatis&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/jpa-darkgrey?style=for-the-badge&logo=jpa&logoColor=#6DB33F" alt="">
 </p>
-<h3 align="left">💻 FrontEnd</h3>
+<h3>💻 FrontEnd</h3>
 <p>
 <img src="https://img.shields.io/badge/javaScript-darkgrey?style=for-the-badge&logo=javascript&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/typeScript-darkgrey?style=for-the-badge&logo=typescript&logoColor=#6DB33F" alt="">
@@ -53,7 +56,7 @@ class Me : Person {
 <img src="https://img.shields.io/badge/jquery-darkgrey?style=for-the-badge&logo=jquery&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 DevOps</h3>
+<h3>💻 DevOps</h3>
 <p>
 <img src="https://img.shields.io/badge/git-darkgrey?style=for-the-badge&logo=git&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/linux-darkgrey?style=for-the-badge&logo=linux&logoColor=#0769AD" alt="">
@@ -65,7 +68,7 @@ class Me : Person {
 <img src="https://img.shields.io/badge/argocd-darkgrey?style=for-the-badge&logo=argo&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 Databases</h3>
+<h3>💻 Databases</h3>
 <p>
 <img src="https://img.shields.io/badge/mysql-darkgrey?style=for-the-badge&logo=mysql&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/oracle-darkgrey?style=for-the-badge&logo=oracle&logoColor=#0769AD" alt="">
@@ -74,7 +77,7 @@ class Me : Person {
 <img src="https://img.shields.io/badge/h2-darkgrey?style=for-the-badge&logo=h2&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 Monitoring</h3>
+<h3>💻 Monitoring</h3>
 <p>
 <img src="https://img.shields.io/badge/elasticsearch-darkgrey?style=for-the-badge&logo=elasticsearch&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/kibana-darkgrey?style=for-the-badge&logo=kibana&logoColor=#0769AD" alt="">
@@ -83,18 +86,18 @@ class Me : Person {
 <img src="https://img.shields.io/badge/scouter-darkgrey?style=for-the-badge&logo=scouter&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 Message Stream</h3>
+<h3>💻 Message Stream</h3>
 <p>
 <img src="https://img.shields.io/badge/kafka-darkgrey?style=for-the-badge&logo=apachekafka&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/rabbitmq-darkgrey?style=for-the-badge&logo=rabbitmq&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 Search Engine</h3>
+<h3>💻 Search Engine</h3>
 <p>
 <img src="https://img.shields.io/badge/solr-darkgrey?style=for-the-badge&logo=apachesolr&logoColor=#0769AD" alt="">
 </p>
 
-<h3 align="left">💻 Collaboration Tools</h3>
+<h3>💻 Collaboration Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/confluence-darkgrey?style=for-the-badge&logo=confluence&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/jira-darkgrey?style=for-the-badge&logo=jira&logoColor=#0769AD" alt="">
@@ -106,8 +109,10 @@ class Me : Person {
 </p>
 
 <h2 align="center">Status</h2>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taenyeon&show_icons=true&locale=en&layout=compact" alt="taenyeon" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=taenyeon&show_icons=true&locale=en" alt="taenyeon" /></p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" alt=""/>
