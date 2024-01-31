@@ -2,22 +2,28 @@
 <h1 align="center" style="margin-top: 0; margin-bottom: 0">Hi 👋, I'm taeyeon KIM</h1>
 <h2 align="center">A Backend Developer</h2>
 
-- 🔭 I’m currently working on **A. Project**
-
-- 🌱 I’m currently learning **MSA**
-
-- 👯 I’m looking to collaborate on [X](X)
-
-- 🤝 I’m looking for help with [X](X)
-
-- 👨‍💻 Where is my portfolio [Notion](https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4)
-
-- 📫 How to reach me **tae8753@gmail.com**
-
-- 📄 Know about my experiences [X](X)
-
-- ⚡ Fun fact **I think I'm fun**
-
+~~~kotlin
+class Me : Person {
+    
+    private val name : String = "taeyeon Kim"
+    
+    private val email : String = "tae8753@gmail.com"
+    
+    private val portfolioUrl : String = "https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4"
+    
+    private val job : Job = Job.BACKEND_DEVELOPER
+    
+    private val availableLanguages : Array<String> = ["Java", "Kotlin", "Javascript", "Typescript"]
+    
+    private val careerOfYear : Int = 3
+    
+    private val currentProject : String = "A. Project"
+    
+    private val projects : Array<String> = ["Tmap Parking Project(BE)", "A Project(FE/BE)"]
+    
+    private val interest : Array<String> = ["BackEnd", "MSA", "K8S" ... ]
+}
+~~~
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="color: ivory">
 <a href="https://instagram.com/tae_nyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tae_nyeon" height="30" width="40" /></a>
@@ -58,6 +64,16 @@
 <img src="https://img.shields.io/badge/helm-darkgrey?style=for-the-badge&logo=helm&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/argocd-darkgrey?style=for-the-badge&logo=argo&logoColor=#0769AD" alt="">
 </p>
+
+<h3 align="left">💻 Databases</h3>
+<p>
+<img src="https://img.shields.io/badge/mysql-darkgrey?style=for-the-badge&logo=mysql&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/oracle-darkgrey?style=for-the-badge&logo=oracle&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/mongodb-darkgrey?style=for-the-badge&logo=mongodb&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/redis-darkgrey?style=for-the-badge&logo=redis&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/h2-darkgrey?style=for-the-badge&logo=h2&logoColor=#0769AD" alt="">
+</p>
+
 <h3 align="left">💻 Monitoring</h3>
 <p>
 <img src="https://img.shields.io/badge/elasticsearch-darkgrey?style=for-the-badge&logo=elasticsearch&logoColor=#0769AD" alt="">
@@ -65,6 +81,17 @@
 <img src="https://img.shields.io/badge/grafana-darkgrey?style=for-the-badge&logo=grafana&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/datadog-darkgrey?style=for-the-badge&logo=datadog&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/scouter-darkgrey?style=for-the-badge&logo=scouter&logoColor=#0769AD" alt="">
+</p>
+
+<h3 align="left">💻 Message Stream</h3>
+<p>
+<img src="https://img.shields.io/badge/kafka-darkgrey?style=for-the-badge&logo=apachekafka&logoColor=#0769AD" alt="">
+<img src="https://img.shields.io/badge/rabbitmq-darkgrey?style=for-the-badge&logo=rabbitmq&logoColor=#0769AD" alt="">
+</p>
+
+<h3 align="left">💻 Search Engine</h3>
+<p>
+<img src="https://img.shields.io/badge/solr-darkgrey?style=for-the-badge&logo=apachesolr&logoColor=#0769AD" alt="">
 </p>
 
 <h3 align="left">💻 Collaboration Tools</h3>
@@ -76,11 +103,6 @@
 <img src="https://img.shields.io/badge/bitbucket-darkgrey?style=for-the-badge&logo=bitbucket&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/github-darkgrey?style=for-the-badge&logo=github&logoColor=#0769AD" alt="">
 <img src="https://img.shields.io/badge/gitlab-darkgrey?style=for-the-badge&logo=gitlab&logoColor=#0769AD" alt="">
-</p>
-<h3 align="left">💻 Message Stream</h3>
-<p>
-<img src="https://img.shields.io/badge/kafka-darkgrey?style=for-the-badge&logo=apachekafka&logoColor=#0769AD" alt="">
-<img src="https://img.shields.io/badge/rabbitmq-darkgrey?style=for-the-badge&logo=rabbitmq&logoColor=#0769AD" alt="">
 </p>
 
 <h2 align="center">Status</h2>
