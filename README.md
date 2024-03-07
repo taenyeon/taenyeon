@@ -34,7 +34,7 @@ class Me : Person {
 <h3 align="center">💻 BackEnd</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/kotlin-darkgrey?style=for-the-badge&logo=kotlin&logoColor=#F05032" alt="">
-<img src="https://img.shields.io/badge/java-darkgrey?style=for-the-badge&logo=java&logoColor=#F05032" alt="">
+<img src="https://img.shields.io/badge/Java-darkgrey?style=for-the-badge&logo=openjdk&logoColor=#F05032" alt="">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/spring-darkgrey?style=for-the-badge&logo=spring&logoColor=#6DB33F" alt="">
@@ -46,11 +46,13 @@ class Me : Person {
 <p align="center">
 <img src="https://img.shields.io/badge/javaScript-darkgrey?style=for-the-badge&logo=javascript&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/typeScript-darkgrey?style=for-the-badge&logo=typescript&logoColor=#6DB33F" alt="">
+<img src="https://img.shields.io/badge/html-darkgrey?style=for-the-badge&logo=html5&logoColor=#6DB33F" alt="">
+<img src="https://img.shields.io/badge/css-darkgrey?style=for-the-badge&logo=css3&logoColor=#F43059" alt="">
+<img src="https://img.shields.io/badge/dart-darkgrey?style=for-the-badge&logo=dart&logoColor=#6DB33F" alt="">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/vue.js-darkgrey?style=for-the-badge&logo=vuedotjs&logoColor=#6DB33F" alt="">
-<img src="https://img.shields.io/badge/html-darkgrey?style=for-the-badge&logo=html5&logoColor=#6DB33F" alt="">
-<img src="https://img.shields.io/badge/css-darkgrey?style=for-the-badge&logo=css3&logoColor=#F43059" alt="">
+<img src="https://img.shields.io/badge/flutter-darkgrey?style=for-the-badge&logo=flutter&logoColor=#6DB33F" alt="">
 <img src="https://img.shields.io/badge/jquery-darkgrey?style=for-the-badge&logo=jquery&logoColor=#0769AD" alt="">
 </p>
 
