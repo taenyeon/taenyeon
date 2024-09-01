@@ -15,7 +15,7 @@ class Me : Person {
     
     private val availableLanguages : Array<String> = ["Java", "Kotlin", "Javascript", "Typescript"]
     
-    private val careerOfYear : Int = 3
+    private val experienceYears : Int = 3
     
     private val currentProject : String = "A. Project"
     
