@@ -1,32 +1,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" alt="" />
-<h1 align="center" style="margin-top: 0; margin-bottom: 0">Hi 👋, I'm taeyeon KIM</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A4A4A4&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+taeyeon+KIM" alt="Typing SVG" /></a>
+</div>
 <h2 align="center">A Backend Developer</h2>
 
 ~~~kotlin
 class Me : Person {
-    
-    private val name : String = "taeyeon Kim"
-    
-    private val email : String = "tae8753@gmail.com"
-    
-    private val portfolioUrl : String = "https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4"
-    
-    private val job : Job = Job.BACKEND_DEVELOPER
-    
-    private val availableLanguages : Array<String> = ["Java", "Kotlin", "Javascript", "Typescript"]
-    
-    private val experienceYears : Int = 3
-    
-    private val currentProject : String = "A. Project"
-    
-    private val projects : Array<String> = ["Tmap Parking Project(BE)", "A Project(FE/BE)"]
-    
-    private val interest : Array<String> = ["BackEnd", "MSA", "K8S" ... ]
+
+    private val name: String = "taeyeon Kim"
+
+    private val email: String = "tae8753@gmail.com"
+
+    private val portfolioUrl: String = "https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4"
+
+    private val job: Job = Job.BACKEND_DEVELOPER
+
+    private val availableLanguages: Array<String> = arrayOf("Java", "Kotlin", "Javascript", "Typescript")
+
+    private val experienceYears: Int = 4
+
+    private val currentProject: String = "A. Project"
+
+    private val projects: Array<String> = arrayOf("Tmap Parking Project(BE)", "A Project(FE/BE)")
+
+    private val interest: Array<String> = arrayOf("BackEnd", "MSA", "K8S", "etc....")
 }
 ~~~
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="color: ivory">
+<h2 align="center">Connect</h2>
+<p align="center" style="color: ivory">
 <a href="https://instagram.com/tae_nyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tae_nyeon" height="30" width="40" /></a>
 </p>
 
