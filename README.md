@@ -10,6 +10,8 @@ class Me : Person {
     private val name: String = "taeyeon Kim"
 
     private val email: String = "tae8753@gmail.com"
+    
+    private val blogUrl: String = "https://dev-document.pages.dev"
 
     private val portfolioUrl: String = "https://taeyeon-workflow.notion.site/fc177ee78b0242afb65ffce4be5de0af?pvs=4"
 
